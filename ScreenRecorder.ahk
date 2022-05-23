@@ -5,6 +5,7 @@ CoordMode, ToolTip, Screen
 SetTitleMatchMode, 3 
 DetectHiddenWindows,On 
 
+; --------------------------------------------------------------- Download ffmpeg.exe before start run the script
 
 timerm := "00"
 timers := "00"
