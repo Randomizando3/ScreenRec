@@ -1,22 +1,39 @@
 # ScreenRec
 
-Script em AutoHotkey para gravacao de tela com interface simples, cronometro e integracao com `ffmpeg`.
+## English
+ScreenRec is an AutoHotkey screen recording script that provides a small desktop interface, a timer, and integration with `ffmpeg`.
 
-## Funcionalidades
+### Features
+- Start recording with a short countdown
+- Stop recording from the UI
+- Save recordings to the desktop
+- Open the recordings folder quickly
 
-- Iniciar gravacao com contagem regressiva
-- Parar a gravacao por atalho ou pela interface
-- Salvar o video na area de trabalho
-- Abrir rapidamente a pasta de gravacoes
-
-## Requisitos
-
+### Requirements
 - AutoHotkey
-- `ffmpeg.exe` disponivel ao lado do script
+- `ffmpeg.exe` available next to the script
 
-## Como usar
+### Usage
+1. Place `ffmpeg.exe` in the same folder as the script.
+2. Run `ScreenRecorder.ahk`.
+3. Start recording from the interface.
+4. Stop the recording and check the generated file on the desktop.
 
-1. Coloque `ffmpeg.exe` no mesmo diretorio do script.
+## PortuguÃªs
+ScreenRec Ã© um script de gravaÃ§Ã£o de tela em AutoHotkey com interface pequena, cronÃ´metro e integraÃ§Ã£o com `ffmpeg`.
+
+### Funcionalidades
+- Iniciar a gravaÃ§Ã£o com uma contagem curta
+- Parar a gravaÃ§Ã£o pela interface
+- Salvar as gravaÃ§Ãµes na Ã¡rea de trabalho
+- Abrir rapidamente a pasta das gravaÃ§Ãµes
+
+### Requisitos
+- AutoHotkey
+- `ffmpeg.exe` disponÃ­vel ao lado do script
+
+### Uso
+1. Coloque `ffmpeg.exe` na mesma pasta do script.
 2. Execute `ScreenRecorder.ahk`.
-3. Inicie a gravacao pela interface.
-4. Pare a captura quando desejar e confira o arquivo gerado na area de trabalho.
+3. Inicie a gravaÃ§Ã£o pela interface.
+4. Pare a gravaÃ§Ã£o e confira o arquivo gerado na Ã¡rea de trabalho.
